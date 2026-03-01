@@ -1,29 +1,29 @@
-# **Analise dos Principios Arquiteturais**
-***
-## **Separação de Responsabilidades**
+# Analise dos Principios Arquiteturais
+
+## Separação de Responsabilidades
 
 **Módulos Identificados :**
 1. Módulo do Usuário (Front-end)
-- Aplicativos para android e iOS
-- Versão Web 
-- Feed, reels, stories, perfil
+    - Aplicativos para android e iOS
+    - Versão Web 
+    - Feed, reels, stories, perfil
 
 2. Módulo de Microserviços
-- Serviço de usuários 
-- Serviço de mídia
-- Serviço de geração do Feed
-- Serviço de pesquisa e Recomendação
-- Serviço de mensagem (Direct)
+    - Serviço de usuários 
+    - Serviço de mídia
+    - Serviço de geração do Feed
+    - Serviço de pesquisa e Recomendação
+    - Serviço de mensagem (Direct)
 
 3. Módulo de Armazenamento
-- Armazenamento de fotos e vídeos.
-- Banco de dados e metadados.
-- Gerenciamento de dados.
+    - Armazenamento de fotos e vídeos.
+    - Banco de dados e metadados.
+    - Gerenciamento de dados.
 
 4. Módulo de Segurança
-- Autenticação de dois fatores.
-- Proteção de conta e recuperação .
-- Privacidade e Segurança do Perfil.
+    - Autenticação de dois fatores.
+    - Proteção de conta e recuperação .
+    - Privacidade e Segurança do Perfil.
 
 **Como estão divididas as responsabilidades:**
 
