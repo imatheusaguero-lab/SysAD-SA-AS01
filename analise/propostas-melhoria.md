@@ -35,7 +35,7 @@ Implementar um mecanismo híbrido de feed configurável, permitindo ao usuário 
 - ❌ Possível redução do tempo médio de permanência
 É uma melhoria estratégica, mas pode impactar receita publicitária.
 
-# Proposta 3 – Arquitetura Unificada de Search & Discovery
+# Proposta 2 – Arquitetura Unificada de Search & Discovery
 
 ## Problema Identificado
 O sistema de busca não parece centralizado como principal ponto de descoberta, diferentemente de YouTube e TikTok.
